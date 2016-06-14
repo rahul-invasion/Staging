@@ -13,11 +13,11 @@ git config --global user.name "your git username"
 git status
 
 #### Step 4 - Create branch.
-git branch branchname
+git branch branchname  (create new branch)
 
-git branch
+git branch  (check current working branch)
 
-git checkout branchname
+git checkout branchname  (for working inside branch)
 
 **or**
 
@@ -33,7 +33,7 @@ git add . **or** git add -A
 git commit -m "put some comment"
 
 #### Step 6 - update your remote branch.
-git push **or** git push —set-upstream origin branchname
+git push **or** git push --set-upstream origin branchname
 
 #### Step 7 - update your local master branch.
 git pull origin master
