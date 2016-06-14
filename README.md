@@ -25,7 +25,7 @@ git checkout -b branchname
 
 git branch
 
-#### Step 5 - adding files to your branch.
+#### Step 5 - adding files to your branch locally.
 git checkout branchname
 
 git add . **or** git add -A
