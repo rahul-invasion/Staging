@@ -1,4 +1,4 @@
-# Staging
+# Staging Repository
 
 
 #### Step 1 - Clone the Staging repo.
