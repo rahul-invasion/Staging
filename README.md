@@ -2,6 +2,8 @@
 
 
 #### Step 1 - Clone the Staging repo.
+git init
+
 git clone https://github.com/rahul-invasion/Staging.git
 
 #### Step 2 - Set user name and email globally.
@@ -13,11 +15,11 @@ git config --global user.name "your git username"
 git status
 
 #### Step 4 - Create branch.
-git branch branchname  (create new branch)
+git branch branchname **(create new branch)**
 
-git branch  (check current working branch)
+git branch **(check current working branch)**
 
-git checkout branchname  (for working inside branch)
+git checkout branchname **(for working inside branch)**
 
 **or**
 
